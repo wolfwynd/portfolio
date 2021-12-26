@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+Vincent Hyde:
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Autistic | ADHD | EDS | drummer | Buddhist | Rat parent | trans | photographer | singer | kayaker | rock/metal fan from the UK.
+Pronouns: He/His/Him 
+ [#prfam #notacult #iamprimordial](https://primordialradio.com/eg1-sub/?eg1=PR_zYyUR9CR)
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
